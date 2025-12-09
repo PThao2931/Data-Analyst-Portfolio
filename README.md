@@ -9,7 +9,7 @@ I’m motivated to continue improving, learn from real-world challenges, and con
 
 Goal: To gain hands-on experience and grow into a confident and reliable Data Analyst.
 
-[View my CV](https://github.com/PThao2931/Data-Analyst-Portfolio/commit/9f54ed0f4449c12a435e7bf6e387160f7fa2e5ce#diff-74b4a8c3db4045a29b94a84ebd813226be136600813e0d6bc28c2384a07b3b28)
+[View my CV](Thảo.pdf)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ### project 1
