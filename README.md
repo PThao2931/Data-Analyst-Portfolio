@@ -21,3 +21,4 @@ In this section I will list data analytics projects briefly describing the techn
 #### Results:
 ## Education
 ## Contacts
+[Explore-Ecommerce-Dataset.sql](https://github.com/PThao2931/Explore-Ecommerce-Dataset/blob/main/Economerce.sql)
